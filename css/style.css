@@ -1,0 +1,9 @@
+.box{
+    display: flex;
+    background-color: aqua;
+    width: 500px;
+    height: 50px;
+    line-height: 50px;
+    justify-content: center;
+}
+a{ text-decoration: none;}
